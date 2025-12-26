@@ -1,7 +1,7 @@
 {
   "latestVersionName": "1.4.0",
-  "versionCode": 2,
-  "isMandatory": false,
+  "versionCode": 11,
+  "isMandatory": true,
   "updateUrl": "https://your-direct-link.com/tubetrailer_v2.apk",
-  "releaseNotes": "• Integrated High-Speed Download Tunnels\n• Fixed WebView scrollbar transparency\n• Added Mandatory Update security system\n• Major performance optimizations"
+  "releaseNotes": "• Unlimited Downloads(movies only)\n• Fixed YouTube availability issues \n• K-Drama and Bollywood movies included(get them using search)\n• Major performance optimizations"
 }

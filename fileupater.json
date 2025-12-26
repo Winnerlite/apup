@@ -1,0 +1,7 @@
+{
+  "latestVersionName": "1.4.0",
+  "versionCode": 2,
+  "isMandatory": false,
+  "updateUrl": "https://your-direct-link.com/tubetrailer_v2.apk",
+  "releaseNotes": "• Integrated High-Speed Download Tunnels\n• Fixed WebView scrollbar transparency\n• Added Mandatory Update security system\n• Major performance optimizations"
+}
